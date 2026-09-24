@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-purple.svg)
 
-Önceki üç projelik seride gerçekleştirdiğim ağ tasarımı ve Gurobi tesis lokasyon optimizasyonlarının ardından, bu dördüncü projede tedarik zinciri performansının müşteri memnuniyetine olan matematiksel etkisini inceliyoruz. Bu çalışma, müşteri geri bildirimlerini black-box yapay zeka modelleriyle değil, istatistiksel algoritmalarla çözerek operasyonel kök nedenleri tespit etmeye odaklanan bir endüstri mühendisliği uygulamasıdır.
+Önceki iki projelik seride gerçekleştirdiğim ağ tasarımı ve Gurobi tesis lokasyon optimizasyonlarının ardından, bu projede tedarik zinciri performansının müşteri memnuniyetine olan matematiksel etkisini inceliyoruz. Bu çalışma, müşteri geri bildirimlerini black-box yapay zeka modelleriyle değil, istatistiksel algoritmalarla çözerek operasyonel kök nedenleri tespit etmeye odaklanan bir endüstri mühendisliği uygulamasıdır.
 
 ## Proje Amacı ve Kapsamı
 Tedarik zincirindeki fiziksel iyileştirmelerin (mesafe ve süre kısalmasının) müşteri tarafındaki yansımasını kanıtlamak amacıyla, Doğal Dil İşleme (NLP) metrikleri ile lojistik operasyon verileri entegre edilmiştir. Proje, metin verilerinin sayısal matrislere dönüştürülmesi ve istatistiksel sınıflandırma üzerinden şikayetlerin ana kaynağının teslimat süreleri olduğunu ispatlamaktadır.
